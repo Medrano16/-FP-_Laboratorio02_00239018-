@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'Formula cuadratica'
+4
+1
+48
+'Inserte los valores de a, b y c de la ecuacion'
+5
+1
+7
+a, b, c
+6
+2
+2
+x1
+26
+(-b+SQRT(b^2-4*a*c))/(2*a)
+2
+x2
+26
+(-b+SQRT(b^2-4*a*c))/(2*a)
+4
+1
+44
+'x1 es igual a ', x1,' y x2 es igual a ', x2
+1
